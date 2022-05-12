@@ -13,7 +13,7 @@
 Docker images are published for every tagged release. Learn more with `moonbeam --help`.
 
 ```bash
-# Join the public testnet
+# Join the public testnet (1)
 docker run --network="host" purestake/moonbeam:v0.23.0 --chain alphanet
 ```
 
